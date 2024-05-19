@@ -1,5 +1,15 @@
-# Greedy-Algorithm
- A simple explanation on the Greedy Algorithm
+# The Greedy Algorithm
+<div align="center">
+  <a href="https://www.linkedin.com/in/brianna-laird/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@Breezy-Codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://briannalaird.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=portfolio&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+</div>
 
 ### Introduction
 Greedy algorithms are a category of algorithms that solve optimisation problems by making a series of choices that are locally optimal, aiming for a globally optimal solution. These algorithms operate by always choosing the best immediate option, without taking future outcomes into account. 
